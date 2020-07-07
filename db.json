@@ -1,22 +1,19 @@
-[
-  {
-    "title": "title 1",
-    "description": "description 1"
-  },
-  {
-    "title": "title 2",
-    "description": "description 2"
-  },
-  {
-    "title": "title 3",
-    "description": "description 3."
-  },
-  {
-    "title": "title 4",
-    "description": "description 4."
-  },
-  {
-    "title": "title 5",
-    "description": "description 5."
-  }
-]
+{
+  "quotes": [
+    {
+      "id":1,
+      "author": "Vivian Greene",
+      "text": "Life isn't about waiting for the storm to pass. It's about learning how to dance in the rain."
+    },
+    {
+      "id":2,
+      "author": "Maya Angelou",
+      "text": "Still, like air, I rise."
+    },
+    {
+      "id":3,
+      "author": "Confucius",
+      "text": "Our greatest glory is not in never falling, but in rising every time we fall."
+    }
+  ]
+}
