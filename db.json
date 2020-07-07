@@ -1,27 +1,23 @@
 
 [
   {
-    "title": "Create React Native Project",
+    "title": "title 1",
     "description": "expo init react-hooks-redux-boilerplate"
   },
   {
-    "title": "Install Dependencies",
+    "title": "title 2",
     "description": "In your project root, run npm i --save redux react-redux redux-thunk axios"
   },
   {
-    "title": "Create Folder Structure",
+    "title": "title 3",
     "description": "In your project root create an app folder. In the app folder create an actions.js, reducers.js store.js files and a components folder and instructions.json."
   },
   {
-    "title": "Create your first action",
+    "title": "title 4",
     "description": "Actions are payloads of information that send data from your application to your store. They are the only source of information for the store. You send them to the store using store.dispatch(). Action creators are exactly that - functions that create actions. Update the actions.js file, in here we will create our actions and action creators."
   },
   {
-    "title": "Create your first reducer",
+    "title": "title 5",
     "description": "The reducers are in charge of updating the state of the app based on the actions passed to the store. - Redux Reducers \nThe combineReducers helper function turns an object whose values are different reducing functions into a single reducing function you can pass to createStore.\n Updated reducers.js file."
   },
-  {
-    "title": "Create Store",
-    "description": "…the actions represent the facts about 'what happened' and the reducers that update the state according to those actions.\nThe Store is the object that brings them together.- Redux Store \nUpdated store.js file. In this file, create the redux store by importing the root reducer and injecting the Redux Thunk middleware."
-  }
 ]
