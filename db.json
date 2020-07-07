@@ -2,22 +2,22 @@
 [
   {
     "title": "title 1",
-    "description": "expo init react-hooks-redux-boilerplate"
+    "description": "description 1"
   },
   {
     "title": "title 2",
-    "description": "In your project root, run npm i --save redux react-redux redux-thunk axios"
+    "description": "description 2"
   },
   {
     "title": "title 3",
-    "description": "In your project root create an app folder. In the app folder create an actions.js, reducers.js store.js files and a components folder and instructions.json."
+    "description": "description 3."
   },
   {
     "title": "title 4",
-    "description": "Actions are payloads of information that send data from your application to your store. They are the only source of information for the store. You send them to the store using store.dispatch(). Action creators are exactly that - functions that create actions. Update the actions.js file, in here we will create our actions and action creators."
+    "description": "description 4."
   },
   {
     "title": "title 5",
-    "description": "The reducers are in charge of updating the state of the app based on the actions passed to the store. - Redux Reducers \nThe combineReducers helper function turns an object whose values are different reducing functions into a single reducing function you can pass to createStore.\n Updated reducers.js file."
-  },
+    "description": "description 5."
+  }
 ]
