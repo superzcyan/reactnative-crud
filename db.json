@@ -23,17 +23,5 @@
   {
     "title": "Create Store",
     "description": "…the actions represent the facts about 'what happened' and the reducers that update the state according to those actions.\nThe Store is the object that brings them together.- Redux Store \nUpdated store.js file. In this file, create the redux store by importing the root reducer and injecting the Redux Thunk middleware."
-  },
-  {
-    "title": "Create your component",
-    "description": "In your components folder create a js file 'home.js'"
-  },
-  {
-    "title": "Link it all together",
-    "description": "The App.js file is the entry point into the app. In this file, the redux store is connected to the Redux provider, giving the app access to the redux state.\nThe app's router is wrapped with the Provider. \nThe <Provider /> makes the Redux store available to any nested components that have been wrapped in the connect() function. - React Redux Provider\nUpdate App.js file."
-  },
-  {
-    "title": "Update your main files",
-    "description": "Run the command 'expo start' to test the app. \nThis will start a development server for you, and print a QR code in your terminal. If you are using the Expo app, you can scan the QR code."
   }
 ]
